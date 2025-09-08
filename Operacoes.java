@@ -1,5 +1,4 @@
 public class Operacoes {
-    private double numero1, numero2;
 
     public static double soma(double numero1, double numero2) {
         return numero1 + numero2;
