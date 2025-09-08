@@ -39,6 +39,6 @@ public static void main(String[] args) {
             resultado = 0;
     }
 
-    System.out.println(resultado);
+    System.out.println("Resultado de " + numero1+ " " + numero2 + " : " + resultado);
 }
 
